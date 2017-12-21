@@ -22,6 +22,11 @@ change?
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+    Branching is particularly helpful when we are making a slightly different 
+    version of the game or making experimental changes. Branches are used so that
+    our working version remains intact and the slight changes that we are making 
+    doesn't affect it.
+
 How do the diagrams help you visualize the branch structure?
 
 What is the result of merging two branches together? Why do we represent it in
