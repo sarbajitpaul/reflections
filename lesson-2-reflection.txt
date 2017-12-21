@@ -29,6 +29,11 @@ organized? How would branches help?
 
 How do the diagrams help you visualize the branch structure?
 
+    The branch structure of git can easily be understood if we visualize it with
+    a diagram. We can easily see that the whole project is not a linear series of
+    commits, rather a non-linear tree like structure where each commit points to 
+    it's parent. The commit which doesn't point to any parent is the initial commit.
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
