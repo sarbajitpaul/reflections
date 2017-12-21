@@ -15,6 +15,10 @@ What value do you think it offers?
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+    The staging area is an important part of git since it allows us to explicitly
+    specify what changes are to be committed. The git diff and git diff --staged 
+    are by far the most important commands I have seen so far.
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
